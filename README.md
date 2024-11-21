@@ -1,1 +1,1 @@
-eggggtrrtggtrgtrgtrtrgtrrt
+Browse to the directory in your repository that you want to delete. In the top-right corner, select the dropdown menu, then click Delete directory. Review the files you will delete. In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file.
